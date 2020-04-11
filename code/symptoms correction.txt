@@ -1,0 +1,79 @@
+skin_rash => skin rash , sken rash , skan resh , skin resh , skin rach .
+itching => itshing , etching , itcing , itaching 
+sneezing => sneazing , snezing , sneizing , sniezing
+shivering  => shevering , shavering , chivering , shivaring
+chills => chells , challs , shills , chils 	
+joint_pain => joint pain , joent_pain  , joint_paen  , join_pain 
+stomach_pain => stomash_pain , stoomach_pain , stomich_pain , stomach_paen
+acidity	=> acedity , asidity , acidite , acadity
+ulcers_on_tongue => ulcers on tongue , ulcirs on tongue , ulcers on tonge , ulcers on tongie
+muscle_wasting => muscle wasting , muscli wasting , muscle westing , musscle wasting
+
+vomiting => vometing , vomating , vommiting , 		
+spotting_ urination =>	spotting urination , spoting urinition , sbotting urination , spotting urinetion
+fatigue	=> fitigue , fategue , fatigie , fattigue , fatigui
+weight_gain => weight gain , weiht gain , weight gaen , height gain , weight gainn
+anxiety => anxieti, anxaety , anixiety ,anxietty
+cold_hands   => cold hands , coldd hands , cold hends 
+mood_swings  =>	mood swings , mood swengs , mood swangs , mood swinggs
+weight_loss  =>	weight loss , weight lose , weight loze , weiht loss , weightt loss
+restlessness =>	restlesness , ristlessness , restlessnes , restlissness
+lethargy => letargy , lithargy , lethergy , letharrgy
+
+patches_in_throat => patches in throat , patshes in throat  , patchess in throat , batches in throat  	
+irregular_sugar_level => irregular sugar level , iregular sujar level , irragular sujar level
+cough => couh , coagh , coough , kough	
+high_fever  => high fever , highe fever , high fefer
+sunken_eyes => sunken eyes , sunkin eyes , sunnken eyes , sunken eyez  
+breathlessness => breathlesness , breithlessness , breathlissness
+sweating    => sweiting , sweatting , soeating , thweating 	
+dehydration =>	dehidration , dihydration , dehydretion , deydration
+indigestion =>	indegestion , indigistion , indygestion 
+headache    =>  headeache , heidache , head mild fever ,ashe , headiche
+
+yellowish_skin => yellowish skin , yellowish sken , yellowich skin , yelloish skan  	
+dark_urine => dark urine , darck urine , derk urine , dark urene 	
+nausea => nusea , naisea , naussea 
+loss_of_appetite => loss of appetite , loze of appitite , lose of appetity ,
+pain_behind_the_eyes => pain behind the eyes , paen behand the eyes , bain behind the eyez 
+back_pain  => back pain , back pain , back pain , back pain 	
+constipation =>	constepation , constipition , consttipation , konstipation 
+abdominal_pain  => abdominal pain , abdomenal pain , apdominal bain 	
+diarrhoea  => diarhoea , dearrhoea , diarrhowea 	
+fever => fiver , fevir , faver , fefer
+
+yellow_urine => yellow urine ,  yelow urine , yellow urane , yallow uriny 
+yellowing_of_eyes => yellowing of eyes , yelowing of eyes , yallowing of eyes ,	yelloing of eyis 
+liver_failure => liver failure , lever failure , liver failare , laver failuri 		
+fluid_overload => flued overload , fluad overload , fluod overload , fluod ovarload 
+swelling_of_stomach => swelling of stomach , swilling of stomach , swalling of stomach ,  swelling of stomash ,  sweling of stomch ,  swilling of stomash 
+swelled_lymph_nodes => swelled lymph nodes , swilled lymph nodes , swalled lymp nodes , swilled lymp nodis
+blurred_vision => blurred vision , blured vision , blorred vision , blurred visaon , blorred vesion 
+phlegm => plegm , phlagm , phligm , phlejm 
+sinus_pressure => sinus pressure , sines pressure , sanus pressure , senus pressure , sinus presure , sinis prassure , 
+redness_of_eyes => redness of eyes , ridness of eyes , radness of eyes , redniss of eyes ,  redness of eyis ,  rednes of eye 
+
+congestion => congistion , conjestion , congastion , congection ,  conngestion 	 
+chest_pain => chest pain , shest pain , chast pain , chist pain , chest paen 	
+weakness_in_limbs => weaknes in limbs , weikness in limbs , wiakness in lembs  	
+fast_heart_rate => fast heart rate , fat heart rate , fest heart rate , fast hert rate , fast heart ratt 	
+swollen_legs => swollen legs , swolen legs , swllen lags , swollen ligs 	
+pain_in_anal_region =>	pain in anal region ,	paen in anil region ,	pain in annal rejion ,
+bloody_stool=> bloody stool , blody stool , ploody stool , bloody stol , bloodi stoole
+irritation_in_anus => irritation in anus , iritation in anus , irretation in anus , irritation in anos ,
+neck_pain   =>  neck pain , nick pain , nack pain , neik pain , nek paen ,	
+dizziness   => diziness , dezziness , dizzines , dizzaness
+
+swollen_blood_vessels => swollen blood vessels , swolen blod vessels , swollen bload vessels , swollin blood vessels ,	
+enlarged_thyroid => enlarged thyroid , enlerged thyroid , enlirged thyroid , enlarjed thiroid 	
+brittle_nails => brittle nails , britle nails , brettle nails , brattle naels 	
+swollen_extremeties => swollen extremeties , swolen extremeties , swollan extremties , swllen axtremeties 	
+excessive_hunger => excessive hunger , excesive hunger , exessive hunjer , excissive hunger 	
+extra_marital_contacts => extra marital contacts , extrra maritel contacts , extri marital contakts 	
+slurred_speech => slurred speech , slured speech , slurred speach , slurred speesh 
+knee_pain => knee pain , kne pain , knae pain , knee paen  
+hip_joint_pain => hip joint pain , hib joint paen , hip joant pain , 	
+muscle_weakness => muscle weakness , muscl weaknes , muscli weakness , muscle weikness  
+
+  
+
